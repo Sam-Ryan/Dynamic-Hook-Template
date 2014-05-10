@@ -15,6 +15,7 @@ Create package and etc.
 ## Install dylib On Device
 1. using scp or iFunBox whatever, upload your dylib file to your device
 2. `DYLD_INSERT_LIBRARIES=path to your dylib file`
+3. Respring
 
 ## Uninstallation
 just delete it from your device.
